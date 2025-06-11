@@ -30,6 +30,9 @@ If you do want to use the Play Store, it's here: https://play.google.com/store/a
 	- Adds support for the Pathfinder BMS
 	- May display "V1.7.42beta" initially, until it gets an OTA update.
 
+### VERSION 1.7.39beta
+    - Supports The Pathfinder BMS. beta testing version.
+
 ### VERSION 1.6.0 - Feb 14th, 2024
     - 
 
