@@ -27,14 +27,18 @@ If you do want to use the Play Store, it's here: https://play.google.com/store/a
 # Version Notes:
 
 ### VERSION 2.0.0 - June 11, 2025
-	- Adds support for the Pathfinder BMS
-	- May display "V1.7.42beta" initially, until it gets an OTA update.
+    - Adds support for the Pathfinder BMS
+    - May display "V1.7.42beta" initially, until it gets an OTA update.
 
-### VERSION 1.7.39beta
+### VERSION 1.7.39beta - May 30 2025
     - Supports The Pathfinder BMS. beta testing version.
 
+### VERSION 1.6.1 - Feb 17, 2024
+    - Bug Fix: Protection release times should never be < 1 second.
+
 ### VERSION 1.6.0 - Feb 14th, 2024
-    - 
+    - Bug Fix: Support emails should display units and headings to better reflect formatting in app.
+    - Dev: Update to use EAS Update server.
 
 ### VERSION 1.5.7 - Dec 12th, 2023
     - Bug Fix: Compatibility with BMSs using messages with >2 BLE packets. (ex. JBD-SP16S020-L16S-100A)
