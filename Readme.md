@@ -26,6 +26,9 @@ If you do want to use the Play Store, it's here: https://play.google.com/store/a
 
 # Version Notes:
 
+### VERSION 2.0.1 - June 12, 2025
+    - Bug fix: properly display cell delta, min, max for JBD BMSs.
+    
 ### VERSION 2.0.0 - June 11, 2025
     - Adds support for the Pathfinder BMS
     - May display "V1.7.42beta" initially, until it gets an OTA update.
